@@ -9,7 +9,7 @@
   - Embedded Systems
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Raghav-Balaji&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/Raghav-Balaji/count.svg)
 
 
 
