@@ -1,7 +1,8 @@
 ##  This Raghav
 
- I am a First Year Student in PES University (RR Campus) studying CS with AI-ML specialization. I am into Programming and Linux, Robotics and Electronics. 
+ I am a First Year Student studying CS. I am into Programming and Linux, Robotics and Electronics. 
  In process of learning, experimenting and building.
+ 
 ## Learning:                          
   - WEB DEV
   - Linux systems
