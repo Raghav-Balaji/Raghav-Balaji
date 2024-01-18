@@ -11,7 +11,6 @@
 
 ## Current Projects:
  - Personal website and Blog
- - A custom built hardware resource monitor for Linux
  - A game (maybe the next minecraft) in the making 😁😁
 
  I am teaching myself eletcronics while learning new softwares and trying out new stuff all the time.
